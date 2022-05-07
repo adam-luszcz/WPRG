@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    border: 1px solid black;
+    padding: 0.8rem;
+    margin: 0.6rem;
+    float: left;
+}
+
+.summary {
+    border: 1px solid black;
+    padding: 0.8rem;
+    margin: 0.6rem;
+}
